@@ -1,4 +1,4 @@
-const apiKey = 'e76c6bb44f91ee684d3377617f4f6b29'
+const apiKey = 'e76c6bb44f91ee684d3377617f4f****'
 let ctiyName=document.getElementsByClassName('city')
 let tempeture = document.getElementsByClassName('temp')
 let inputCityName = document.querySelector('input')

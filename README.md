@@ -1,5 +1,5 @@
 # Javascript-Projects
-# Weather App (Project 1)
+# Weather App
 
 This is a simple web application that provides current weather information for any city. By entering a city name, the app retrieves and displays real-time data such as temperature, humidity, and wind speed using a weather API.
 
